@@ -62,5 +62,8 @@ All the assets that were used to develop this demo are free to use and they are 
  
  6. Click *File->Build Settings->Choose operative System->Build*
  
- 
+  ## About us
+  
+  This game is part my bachelor thesis about procedural content generation in Ingeniería de Tecnologías de Telecomunicación on the University of Vigo.
+  
  
