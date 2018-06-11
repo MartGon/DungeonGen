@@ -52,7 +52,7 @@ In order to build or modify this source code you will need the following program
  
  1. Clone this repository using git: git clone https://github.com/TFGProcGen/DungeonGen
  
- 2. Download the asset store folder, containing the previous mentioned assets: 
+ 2. Download the asset store folder, containing the previous mentioned assets: https://drive.google.com/open?id=1BH43jNOqluHKKOHZ5st89kM3Jwibc2mf
  
  3. Uncompress it on the *Assets* folder inside the folder that has just been created 
  
