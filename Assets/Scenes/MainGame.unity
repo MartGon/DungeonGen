@@ -1691,7 +1691,7 @@ MonoBehaviour:
   minRoomDepth: 5
   maxRoomWidth: 8
   maxRoomDepth: 8
-  debug: 1
+  debug: 0
   maxTreasureRooms: 2
   level: 1
   difficulty: 0
