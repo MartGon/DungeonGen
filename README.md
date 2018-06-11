@@ -29,11 +29,11 @@ All the assets that were used to develop this demo are free to use and they are 
  - SciFi Enemies and Vehicles: http://u3d.as/6CD
  - Nextgen Sci-Fi: Cratehttp://u3d.as/jze
  
- ## Download and play the game
+## Download and play the game
  
  If you want the game's build or simply play it on your browser, check this: https://defu.itch.io/dungeon-gen
  
- ## Controls
+## Controls
 
 - Standard shooter movement with WASD.
 - Left Mouse Click for shooting.
@@ -41,14 +41,14 @@ All the assets that were used to develop this demo are free to use and they are 
 - F to melee strike.
 - R to reload your weapon.
  
- ## Build Requirments
+## Build Requirments
  
- In order to build or modify this source code you will need the following programs:
+In order to build or modify this source code you will need the following programs:
  
  - Unity™ 2017.3.1f1
  - Visual Studio 2017
  
- ## Build steps
+## Build steps
  
  1. Clone this repository using git: git clone https://github.com/TFGProcGen/DungeonGen
  
@@ -62,8 +62,8 @@ All the assets that were used to develop this demo are free to use and they are 
  
  6. Click *File->Build Settings->Choose operative System->Build*
  
-  ## About us
-  
-  This game is part my bachelor thesis about procedural content generation in Ingeniería de Tecnologías de Telecomunicación on the University of Vigo.
+## About us
+
+This game is part of my bachelor thesis about procedural content generation in Ingeniería de Tecnologías de Telecomunicación on the University of Vigo.
   
  
