@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f6a5bf6ac4c343a4b84e7743e3942d51
+timeCreated: 1520855310
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ammoBox: {fileID: 1497343352787350, guid: 674cdd6a8b7695749bfb346b88fb1fa0, type: 2}
+  - hpBox: {fileID: 1598793389258120, guid: 24d0054fb1098df4b8d6bdaaf0421652, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
